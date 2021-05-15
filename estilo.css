@@ -1,0 +1,122 @@
+body, html{
+	height: 100%;
+	margin: 0%;
+	padding: 0%;
+
+}
+ 
+
+ul{
+	margin: 0%;
+	list-style: none;
+}
+
+.item{
+	float: right;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.rodape{
+	background-color: white;
+}
+
+.caixa1{
+	background-image: url(bg3.jpg);
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+	opacity: 0.7;
+	}
+
+.logo{
+	width: 2.5em;
+}
+
+.active:hover{
+	border-bottom: black 1px solid;
+}
+
+.conteudo1{
+	background-color: black;
+	color: white;
+	float: left;
+	padding: 0.7em;
+	margin-left: 40%;
+	margin-top: 15%;
+	opacity: 1;
+}
+
+/* SOBRE */	
+
+.caixa2{
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+.sobre{
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 2%; 
+}
+
+.card{
+	margin: 2% 3.2%;
+	float: left;
+	text-align: center;
+}
+
+.imgem{
+	width: 50%;
+}
+
+.imgem2{
+	width: 50%;
+	margin-top: 38%;
+}
+
+.tittle{
+	font-size: 2.3em;
+	text-align: center;
+	background-color: #D3D3D3;
+	padding: 0.2em;
+	border-radius: 10px;
+}
+
+/* Contato */
+.caixa3{
+	height: 100%;
+	background-size: cover;
+	background-position: center;
+}
+
+.contato{
+	border-radius: 20px;
+	background-color: #D3D3D3;
+	width: 80%;
+	margin-left: 10%;
+	padding: 3%;
+}
+
+.btn-solicitar{
+	width: 30%;
+	margin-left: 35%;
+}
+
+/* Rodape */
+
+.rodape{
+	clear: both;
+	background-color: #1C1C1C;
+	color: white;
+}
+
+.conteudo-rodape{
+	width: 90%;
+	
+	padding: 3%;
+}
