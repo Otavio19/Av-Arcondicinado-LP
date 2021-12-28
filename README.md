@@ -7,3 +7,15 @@
 <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
+<h2>Imagens</h2>
+
+<p>HOME</p>
+<img alt='HOME' src='Telas/HOME.png'>
+<hr>
+<p>Serviços</p>
+<img alt='Serviços' src='Telas/Servicos.png'>
+<hr>
+<p>Contato</p>
+<img alt='Contato' src='Telas/Contato.png'>
+<img alt='Contato2' src='Telas/Contato2.png'>
+
